@@ -2,9 +2,9 @@
 atom-ide-note
 
 * 自動排版 -
-    +source
+    + source
       <br>
       [atom-beautify](https://github.com/Glavin001/atom-beautify)
-    +快速捷鍵
+    + 快速捷鍵
       <br>
       ```ctrl + alt + b```
